@@ -1,0 +1,3 @@
+[Fake]
+command = build.cmd
+build = build.fsx

@@ -1,0 +1,7 @@
+source https://api.nuget.org/v3/index.json
+nuget Accord.Imaging
+nuget FAKE
+nuget FSharp.Data
+nuget SharpDX.Direct3D11
+nuget SharpDX.Direct2D1
+nuget SharpDX.Desktop
